@@ -13,9 +13,6 @@ namespace MigrationHelper.PluginBase
         public const string PluginMessage_Update = "Update";
         public const string PluginMessage_Delete = "Delete";
 
-        // Environment Variables
-        public const string EnvVar_RootBusinessUnitId = "fvs_rootBusinessUnitId";
-
         // Shared Variables
         public const string SharedVar_Tag = "tag";
 
